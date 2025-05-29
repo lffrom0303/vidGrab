@@ -1,0 +1,37 @@
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 虚拟环境
+env/
+.venv/
+venv/
+ENV/
+
+# IDE配置
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 输出目录
+output/
+
+# 视频链接文件
+video_urls.txt
+
+# cookies和敏感信息
+cookies.txt
+
+# 日志和临时文件
+*.log
+*.tmp
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 其他
+*.bak 
